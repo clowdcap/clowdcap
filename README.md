@@ -25,5 +25,6 @@ And I was studying to ![Python](https://img.shields.io/badge/Python-FFD43B?style
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clowdcap&show_icons=true&theme=radical)](https://github.com/clowdcap/github-readme-stats)
 
 ### Contact Me By:
-- [Discord](https://discord.com) - Big Boss#5037
-- [Linkedin](https://www.linkedin.com/in/jose-marinho-a518ba1a1/)
+- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+> Big Boss#5037
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-marinho-a518ba1a1/)
