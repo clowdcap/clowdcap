@@ -1,16 +1,24 @@
-### Hi there 👋, I'm
-## José Marinho
+<h2 align="center"> 
+Hi there 👋, I'm
+José Marinho
+</h2>
 
-Web Developer, Design, Archtecht and Urbanist
 
-:triangular_ruler: I’m currently working as an Archtecht and Urbansit on City Hall of Campo Magro / PR - Brazil
+<h3 align="center">Web Developer, Design, Archtecht and Urbanist</h3>
+
+<h4 align="center">Contact Me By:</h4>
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-marinho-a518ba1a1/)
+
+<p align="center">:triangular_ruler: I’m currently working as an Archtecht and Urbansit on City Hall of Campo Magro / PR - Brazil</p>
+
 ### But, today I am looking for a job opportunity to be able to evolve and contribute with my services in the area of technology
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clowdcap&show_icons=true&theme=radical)
-- 
-*:blue_book: I am currently developing websites for general use, like you can view in my repositories*
 
-### :memo: I’m currently learning and producing in ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+<p align="center"><b>:blue_book: I am currently developing websites for general use, like you can view in my repositories</b></p>
+
+### :memo: I’m learning and producing in ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 #### - For Frond End:
 ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) - ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -24,7 +32,4 @@ And I was studying to ![Python](https://img.shields.io/badge/Python-FFD43B?style
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clowdcap&show_icons=true&theme=radical)](https://github.com/clowdcap/github-readme-stats)
 
-### Contact Me By:
-- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-> Big Boss#5037
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-marinho-a518ba1a1/)
+
