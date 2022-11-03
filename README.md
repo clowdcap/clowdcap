@@ -4,7 +4,7 @@ José Marinho
 </h2>
 
 
-<h3 align="center">Web Developer, Design, Archtecht and Urbanist</h3>
+<h3 align="center">I will studing and working for be a Web Developer FullStack </h3>
 
 <h4 align="center">Contact Me By:</h4>
 
@@ -12,7 +12,7 @@ José Marinho
 
 <p align="center">:triangular_ruler: I’m currently working as an Archtecht and Urbansit on City Hall of Campo Magro / PR - Brazil</p>
 
-### But, today I am looking for a job opportunity to be able to evolve and contribute with my services in the area of technology
+### Today I am looking for a job opportunity to be able to evolve and contribute with my services in the area of technology
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clowdcap&show_icons=true&theme=radical)
 
