@@ -14,6 +14,7 @@ José Marinho
 <h3> Today I am looking for a job opportunity to be able to evolve and contribute with my services in the area of technology </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clowdcap&show_icons=true&theme=radical)
+  
 
 <p ><b >:blue_book: I am currently developing websites for general use, like you can view in my repositories</b></p>
 
