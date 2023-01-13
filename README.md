@@ -10,8 +10,7 @@ José Marinho
 
 <h3>Contact Me By:</h3>
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-marinho-a518ba1a1/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-marinho-dev/)
 
 <h3> Today I am looking for a job opportunity to be able to evolve and contribute with my services in the area of technology </h3>
 
