@@ -30,7 +30,8 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clowdcap&theme=tokyonight)](https://github.com/clowdcap/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clowdcap&theme=tokyonight&layout=compact)](https://github.com/clowdcap/github-readme-stats)
+  
 
 <br />
 
