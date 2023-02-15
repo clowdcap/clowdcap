@@ -53,7 +53,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <br />
 
-<p style="font-size: 22px">Next Js, React Js, Sass, TailwindCss</p>
+<p style="font-size: 22px">Next Js, React Js, Sass, TailwindCss, Axios</p>
 
 <br />
 <h3 style="font-weight: bold; font-size: 20px"> For Back End: </h3>
@@ -64,7 +64,7 @@
 
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 <br />
-<p style="font-size: 22px">Node Js, Express, Fastify, Axios, Prisma </p>
+<p style="font-size: 22px">Node Js, Express, Fastify, Prisma </p>
 
 <br />
 <h3 style="font-weight: bold; font-size: 20px"> And for DB: </h3>
